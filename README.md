@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你好，同志 👋
 
 <!--
 **ChaseDawn2023/ChaseDawn2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->自从2023年中政府对的各大高校中学的意识形态、社团组织进行全面清洗后，大量社团被勒令解散，更有数不清的学生被处分、开除。其中绝大部分人虽有良好的政治素质，但在网络隐私方面却是一无所知。 
+-->自2023年中政府对各大高校的意识形态、社团组织进行全面清洗后，大量社团被勒令解散，更有数不清的学生被处分、开除。令人惋惜的是，其中绝大部分人虽有良好的政治素质，但在网络隐私方面却是一无所知。数字极权时代，我们必须自己武装自己！
